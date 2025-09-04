@@ -69,7 +69,7 @@ open index.html
 ### 🖥️ Desktop Experience
 *Clean, professional interface with intuitive navigation and comprehensive trading dashboard*
 
-![Desktop View - Zerodha Clone](https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/desktop-view.png)
+![](https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/desktop-view.png)
 
 **Key Features Showcased:**
 - 📊 Interactive trading dashboard mockups
@@ -82,7 +82,7 @@ open index.html
 ### 📱 Mobile Experience  
 *Seamlessly responsive design optimized for mobile trading*
 
-<img src="https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/mobile-view.png" alt="Mobile View - Zerodha Clone" width="300">
+<img src="https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/mobile-view.png" width="300">
 
 **Mobile Optimizations:**
 - 📱 Touch-friendly interface design
@@ -193,5 +193,4 @@ Give a ⭐ if this project helped you learn something new!
 <div align="center">
   <sub>💡 <strong>Learning never stops!</strong> This project is a stepping stone in my web development journey.</sub>
 </div>
-
 
