@@ -67,10 +67,30 @@ open index.html
 <div align="center">
 
 ### 🖥️ Desktop Experience
-![Desktop View](https://via.placeholder.com/800x400/0066CC/FFFFFF?text=Desktop+View)
+*Clean, professional interface with intuitive navigation and comprehensive trading dashboard*
+
+![Desktop View - Zerodha Clone](https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/desktop-view.png)
+
+**Key Features Showcased:**
+- 📊 Interactive trading dashboard mockups
+- 📈 Real-time market data visualization  
+- 🎯 Clean navigation and user interface
+- 💼 Professional color scheme and typography
+
+---
 
 ### 📱 Mobile Experience  
-<img src="https://via.placeholder.com/300x600/0066CC/FFFFFF?text=Mobile+View" alt="Mobile View" width="300">
+*Seamlessly responsive design optimized for mobile trading*
+
+<img src="https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/mobile-view.png" alt="Mobile View - Zerodha Clone" width="300">
+
+**Mobile Optimizations:**
+- 📱 Touch-friendly interface design
+- 🔄 Adaptive layout for various screen sizes
+- ⚡ Fast loading on mobile networks
+- 🎨 Consistent branding across devices
+
+> **Pro Tip:** The responsive design automatically adapts from desktop (1920px) down to mobile (320px) with smooth transitions at every breakpoint.
 
 </div>
 
@@ -138,33 +158,7 @@ open http://localhost:3000
 
 </div>
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-<details>
-<summary>🔧 How to Contribute</summary>
-
-1. **Fork** this repository
-2. **Create** your feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-</details>
-
-## 📈 Roadmap
-
-- [x] **Phase 1:** Basic landing page structure
-- [x] **Phase 2:** Responsive design implementation  
-- [x] **Phase 3:** Interactive elements and animations
-- [ ] **Phase 4:** Dashboard mockup integration
-- [ ] **Phase 5:** Chart integration with dummy data
-- [ ] **Phase 6:** Advanced animations and micro-interactions
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+---
 
 <div align="center">
 
@@ -199,3 +193,5 @@ Give a ⭐ if this project helped you learn something new!
 <div align="center">
   <sub>💡 <strong>Learning never stops!</strong> This project is a stepping stone in my web development journey.</sub>
 </div>
+
+
