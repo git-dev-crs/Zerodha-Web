@@ -1,28 +1,10 @@
-<div align="center">
+🪁 Zerodha Web
 
-# 🎯 Zerodha Web Clone
+A responsive, user-friendly clone of Zerodha's trading platform, built with HTML, CSS, and JavaScript.
 
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" alt="Status">
-<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version">
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
-<img src="https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge" alt="Responsive">
+🚀 Project Overview
 
-### 🏆 *A pixel-perfect, responsive recreation of India's leading trading platform*
-
-[🌐 Live Demo](https://your-live-demo-link.com) • [📸 Screenshots](#-screenshots) • [📖 Documentation](#-documentation) • [🤝 Contribute](#-contributing)
-
-</div>
-
----
-
-## 🌟 What Makes This Special?
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🎨 Pixel Perfect Design   📱 Mobile First   ⚡ Lightning Fast  │
-│  🎯 SEO Optimized         🔧 Clean Code     🌐 Cross Browser   │
-└─────────────────────────────────────────────────────────────┘
-```
+Zerodha Web is a front-end project that replicates the design and functionality of Zerodha's trading platform. It's designed to provide a seamless user experience with a clean interface and responsive layout, suitable for both desktop and mobile devices.
 
 ## 🚀 Quick Start
 
