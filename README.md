@@ -62,38 +62,6 @@ open index.html
 - **Mobile First** - Built with mobile users as priority
 - **SEO Ready** - Structured for search engine optimization
 
-## 📸 Visual Journey
-
-<div align="center">
-
-### 🖥️ Desktop Experience
-*Clean, professional interface with intuitive navigation and comprehensive trading dashboard*
-
-![](https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/desktop-view.png)
-
-**Key Features Showcased:**
-- 📊 Interactive trading dashboard mockups
-- 📈 Real-time market data visualization  
-- 🎯 Clean navigation and user interface
-- 💼 Professional color scheme and typography
-
----
-
-### 📱 Mobile Experience  
-*Seamlessly responsive design optimized for mobile trading*
-
-<img src="https://github.com/git-dev-crs/Zerodha-Web/assets/your-assets/mobile-view.png" width="300">
-
-**Mobile Optimizations:**
-- 📱 Touch-friendly interface design
-- 🔄 Adaptive layout for various screen sizes
-- ⚡ Fast loading on mobile networks
-- 🎨 Consistent branding across devices
-
-> **Pro Tip:** The responsive design automatically adapts from desktop (1920px) down to mobile (320px) with smooth transitions at every breakpoint.
-
-</div>
-
 ## 🏗️ Project Architecture
 
 ```
@@ -193,4 +161,3 @@ Give a ⭐ if this project helped you learn something new!
 <div align="center">
   <sub>💡 <strong>Learning never stops!</strong> This project is a stepping stone in my web development journey.</sub>
 </div>
-
